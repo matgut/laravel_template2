@@ -1,0 +1,25 @@
+/*login*/
+
+::placeholder {
+    color: red;
+    opacity: 1; /* Firefox */
+}
+
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:    #909;
+    opacity:  1;
+ }
+
+ :-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:    #909;
+    opacity:  1;
+ }
+
+/*end login*/
+
+.mdi-24px { font-size: 24px; }
+
+.grid-margin-custom-cgm {
+    margin-bottom: 1.3rem;
+  }
+
